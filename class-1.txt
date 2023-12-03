@@ -1,2 +1,3 @@
-Linerar classifier
- 
+Linerar Classifier
+Gradient Descent
+Learning Rate
