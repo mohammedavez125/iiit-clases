@@ -1,0 +1,13 @@
+						[ 1st hour ]
+1)Stochastic Gradient Descent
+2)Batch Gradient Descent
+3)Mini Batch Gradient Descent
+    factors:
+	Loss function
+	Initialization
+	Learning rate
+	Update strategy
+approaches :  1-vs-1 , 1-vs-rest.
+		better approaches : DDAG (Decision Directed Acyclic Grapgh) , Hieerarchial Classifier Combination.
+==================================================================================================================
+						[ 2nd hour ]
