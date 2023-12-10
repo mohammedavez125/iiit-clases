@@ -10,4 +10,4 @@
 approaches :  1-vs-1 , 1-vs-rest.
 		better approaches : DDAG (Decision Directed Acyclic Grapgh) , Hieerarchial Classifier Combination.
 ==================================================================================================================
-						[ 2nd hour ]
+						[ 2nd hour ] 
